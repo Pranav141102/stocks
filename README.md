@@ -49,6 +49,6 @@ This project is a **Streamlit-based web application** designed to analyze and pr
 ## Contact
 
 For any queries or feedback, please contact:
-- **Your Name** - Pranav Deshmukh
+- **Name** - Pranav Deshmukh
 - **Mail-ID**: pdd141102@gmail.com
 - **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/pranxxvv/)
