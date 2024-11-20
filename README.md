@@ -1,4 +1,4 @@
-# Stock Performance Analysis with Moving Averages and Prediction
+# Stock Performance Analysis
 
 This project is a **Streamlit-based web application** designed to analyze and predict stock prices using historical data, moving averages, and predictive models. The application provides users with visualizations and recommendations to assist in making informed investment decisions.
 
