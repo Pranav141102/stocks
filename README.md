@@ -45,3 +45,10 @@ This project is a **Streamlit-based web application** designed to analyze and pr
 - **Stock Data Source:** [Yahoo Finance API](https://pypi.org/project/yfinance/)
 
 ---
+
+## Contact
+
+For any queries or feedback, please contact:
+- **Your Name** - Pranav Deshmukh
+- **Mail-ID**: pdd141102@gmail.com
+- **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/pranxxvv/)
